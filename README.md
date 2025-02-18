@@ -20,3 +20,16 @@
 - Construir um pacote chamado [endereco] dentro de [model] e criar uma classe [Endereco] com os atributos listados abaixo. Além disso, crie os getters, setters, construtot com todos os parâmetro.
 (logadouro, bairro, cep, cidade, uf, numero, complemento)
 *coloque todos os atributos privados e do tipo String
+
+
+
+# AULA 02
+Verbos/métodos HTTP
+`GET`-> É quando você pede algo de retorno.
+`POST` -> É quando você passa informações.
+PUT
+DELETE
+
+Request [REQUISIÇÃO] -> é o que você passa esperando o retorno.
+Reponse [RESPOSTA] -> é a resposta que você recebe.
+
